@@ -47,7 +47,7 @@ This repository contains the final version of the NeuroPark 3D vehicle detection
 
 ## 🏆 Conference Presentation
 
-This project was **presented at KPZ25 Engineering Conference** at Wroclaw University of Science and Technology, with the participation of Capgemini, PPG, Comarch, and Neurosoft.
+This project was **presented at KPZ25 Engineering Conference** at Wroclaw University of Science and Technology.
 
 [See the LinkedIn post for details.](https://www.linkedin.com/posts/caner-olcay-bb3760257_kpz25-politechnikawroclawska-neurosoft-activity-7345453110695202816-J1nn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD9LMLcBnMzw2nsjKBmRk865ISVAp5dhOPc)
 
