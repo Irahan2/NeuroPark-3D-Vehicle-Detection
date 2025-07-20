@@ -41,8 +41,8 @@ This repository contains the final version of the NeuroPark 3D vehicle detection
 
 ## 📌 Project Team
 
-* Caner Olcay
-* Batın Topbaşoğlu
+* Caner Olcay (Team Leader)
+* Batın Topbaşoğlu 
 * Myra Shah
 
 ## 🤝 Acknowledgments
