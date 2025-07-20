@@ -1,4 +1,5 @@
 NeuroPark: AI-based 3D Vehicle Detection & Smart Parking System 🚗🧠
+
 This repository contains the final version of the NeuroPark 3D vehicle detection project. Developed in collaboration with Neurosoft, it transforms 2D traffic camera images into accurate and interpretable 3D vehicle scenes for applications such as traffic monitoring, smart parking, and urban mobility analytics.
 
 ✨ Project Highlights
